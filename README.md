@@ -55,7 +55,7 @@ Cross connection: CIRCUIT DIAGRAM:
 
 ![image](https://github.com/user-attachments/assets/11286ba9-4dea-4755-b22d-c810f2c01d39)
 ![image](https://github.com/user-attachments/assets/ffa28956-f99a-4e78-9fd8-31b8de86adad)
-![image](https://github.com/user-attachments/assets/c8fa1ba3-7af4-45e3-bafc-d1a79f3712fe)
+<img width="918" height="1321" alt="image" src="https://github.com/user-attachments/assets/16d70408-ee7d-4bc0-9d5c-42ab823bcbff" />
 
 
 RESULT:
